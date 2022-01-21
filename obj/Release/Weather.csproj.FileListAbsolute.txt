@@ -1,0 +1,14 @@
+C:\Users\brind\Desktop\Weather\Weather\bin\Release\Weather.exe.config
+C:\Users\brind\Desktop\Weather\Weather\bin\Release\Weather.exe
+C:\Users\brind\Desktop\Weather\Weather\bin\Release\Weather.pdb
+C:\Users\brind\Desktop\Weather\Weather\obj\Release\Weather.csproj.AssemblyReference.cache
+C:\Users\brind\Desktop\Weather\Weather\obj\Release\Weather.csproj.SuggestedBindingRedirects.cache
+C:\Users\brind\Desktop\Weather\Weather\obj\Release\Weather.Form1.resources
+C:\Users\brind\Desktop\Weather\Weather\obj\Release\Weather.Properties.Resources.resources
+C:\Users\brind\Desktop\Weather\Weather\obj\Release\Weather.csproj.GenerateResource.cache
+C:\Users\brind\Desktop\Weather\Weather\obj\Release\Weather.csproj.CoreCompileInputs.cache
+C:\Users\brind\Desktop\Weather\Weather\obj\Release\Weather.exe
+C:\Users\brind\Desktop\Weather\Weather\obj\Release\Weather.pdb
+C:\Users\brind\Desktop\Weather\Weather\bin\Release\Newtonsoft.Json.dll
+C:\Users\brind\Desktop\Weather\Weather\bin\Release\Newtonsoft.Json.xml
+C:\Users\brind\Desktop\Weather\Weather\obj\Release\Weather.csproj.CopyComplete
